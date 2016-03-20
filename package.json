@@ -1,0 +1,11 @@
+{
+  "name": "isometry",
+  "version": "1.0.0",
+  "description": "To a certain extent, writing this README is a fundamental folly. I don't quite know what this is, and in the spirit of exploration— I'm trying to figure out what this is, and what it could be. This is going to be very hand-wavey as I freely conflate interface, implementation, static types and dynamic predicates, library and application, virtue and sin.",
+  "main": "church.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
